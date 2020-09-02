@@ -1,0 +1,2 @@
+# PrimeBitAPI
+Unofficial PrimeBit API
